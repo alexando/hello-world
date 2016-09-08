@@ -1,2 +1,3 @@
 # hello-world
-My first repository.
+
+I'm a mathematician who discovered that computers are useful later on in life.
